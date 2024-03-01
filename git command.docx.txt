@@ -1,0 +1,15 @@
+1. git config --global user.name “bhavyprajapati” 
+
+2. git config – global user.email bhavyprajapati716@gmail.com 
+
+3. git init 
+
+4. git add . 
+
+5. git commit –m “first commit” 
+
+6. git branch –M main 
+
+7. git remote add origin https://github.com/bhavyprajapati/2202031000123.git 
+
+8. git push –u origin main  
